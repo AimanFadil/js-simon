@@ -3,3 +3,31 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header{
+    background-color: blueviolet;
+    color: blueviolet;
+    height: 100px;
+    padding: 20px;
+    
+}
+
+main{
+    border: 4px blueviolet solid;
+}
+
+
+
+.content{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+    
