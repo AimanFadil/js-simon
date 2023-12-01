@@ -21,7 +21,11 @@ main{
     border: 4px blueviolet solid;
 }
 
+#numeriAvideo {
+    margin-top: 30px;
+    font-size: 35px;
 
+}
 
 .content{
     display: flex;
